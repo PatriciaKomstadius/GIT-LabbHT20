@@ -1,0 +1,19 @@
+PatricisMacBook:GIT-labbHT20 patricia$ git log
+commit f7933f187cc6ffe6086528239516aec4bfed339f (HEAD -> master, origin/master, origin/feature, feature)
+Author: Patricia K <patricia@PatricisMacBook.lan>
+Date:   Wed Oct 28 22:09:39 2020 +0100
+
+    skapat en textfil till feature
+
+commit dd95935e23c60d2390de58e747c9a21811962ada
+Author: Patricia K <patricia@PatricisMacBook.lan>
+Date:   Wed Oct 28 22:08:04 2020 +0100
+
+    skapat en readme-fil
+
+commit 1be0502b50d4189aef0765d876ce2d7066f9bb6f
+Author: Patricia K <patricia@PatricisMacBook.lan>
+Date:   Wed Oct 28 22:06:52 2020 +0100
+
+    skapat en gitignore-fil
+PatricisMacBook:GIT-labbHT20 patricia$ 
